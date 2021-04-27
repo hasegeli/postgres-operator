@@ -12,3 +12,4 @@ kubernetes==3.0.0
 requests==2.20.1
 stups-tokens>=1.1.19
 wal_e==1.1.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
